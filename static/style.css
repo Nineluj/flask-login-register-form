@@ -1,0 +1,39 @@
+.main {
+    padding: 30px;
+    background: navajowhite;
+    height: 100vh;
+}
+
+.route {
+    background: ghostwhite;
+    padding: 0 20px 20px 20px;
+    border-radius: 15px;
+}
+
+.spaced {
+    margin-top: 15px;
+    display: table-row;
+}
+
+.separated {
+    margin-top: 15px;
+}
+
+.spaced label {
+    padding: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 24px;
+}
+
+.secured {
+    color: dodgerblue;
+    font-size: 50px;
+}
+
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
