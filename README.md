@@ -1,6 +1,5 @@
 # Login Register Form with Flask + SQLAlchemy
-> Refactored for testing
-> Based off code by berat
+> Original code was from berat. Made slight modifications to use this project for testing other project.
 
 ## Getting it to run
 ```shell script
